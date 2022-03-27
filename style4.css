@@ -1,0 +1,15 @@
+body{
+    background-position: left;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    background-image: url(fakturka.jpg)";
+   
+}
+table{
+    width: 26%;
+    height: 12%;
+    margin-top: 100px;
+    margin-left: 200px;
+    
+}
