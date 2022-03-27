@@ -1,15 +1,17 @@
+
+
 body{
-    background-position: left;
-    background-repeat: no-repeat;
-    height: 100%;
-    width: 100%;
-    background-image: url(fakturka.jpg)";
-   
+            background-image: url(fakturka.jpg);
+            background-position: left;
+           background-repeat: no-repeat;
+           height:fit-content;
+           width: fit-content;
+    
 }
 table{
-    width: 26%;
-    height: 12%;
-    margin-top: 100px;
-    margin-left: 200px;
-    
+    margin-top: 400px;
+    margin-left: 100px;
+}
+td{
+    height: 5px;
 }

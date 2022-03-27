@@ -1,33 +1,34 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="faktura.xslt"?>
 <Dane xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	
+	<Zamowienie>	
 	<Produkt>
 		<Numer>1</Numer>
 		<Nazwa>Kreatyna</Nazwa>
-		<Ilość>5</Ilość>>
+		<Ilosc>5</Ilosc>>
 		<Cena>60</Cena>
 		<Podatek>0.23</Podatek>
 	</Produkt>
 	<Produkt>
 		<Numer>1</Numer>
 		<Nazwa>Białko</Nazwa>
-		<Ilość>4</Ilość>>
+		<Ilosc>4</Ilosc>>
 		<Cena>80</Cena>
 		<Podatek>0.23</Podatek>
 	</Produkt>
 	<Produkt>
 		<Numer>1</Numer>
 		<Nazwa>Cytrulina</Nazwa>
-		<Ilość>10</Ilość>>
+		<Ilosc>10</Ilosc>>
 		<Cena>50</Cena>
 		<Podatek>0.23</Podatek>
 	</Produkt>
 	<Produkt>
 		<Numer>1</Numer>
 		<Nazwa>Witaminy</Nazwa>
-		<Ilość>10</Ilość>>
+		<Ilosc>10</Ilosc>>
 		<Cena>20</Cena>
 		<Podatek>0.23</Podatek>
 	</Produkt>	
+	</Zamowienie>
 </Dane>
