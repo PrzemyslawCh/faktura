@@ -13,40 +13,40 @@
            <body>   
             <table>              
                 <tr>
-                  <td style="width: 1%;">1</td>
-                  <td style="width: 30%;"><xsl:value-of select="Dane/Zamowienie/Produkt/Nazwa"/></td>
-                  <td style="width: 7,5%;"></td>
-                  <td style="width: 7,5%;"></td>
-                  <td style="width: 5%;"><xsl:value-of select="Dane/Zamowienie/Produkt/Ilosc"/></td>
-                  <td style="width: 10%;"></td>
-                  <td style="width: 10%;"></td>
-                  <td style="width: 5%;"></td>
-                  <td style="width: 10%;"></td>
-                  <td style="width: 13%;"></td>
+                  <td style="width: 10px;">1</td>
+                  <td style="width: 500px;"><xsl:value-of select="Dane/Zamowienie/Produkt/Nazwa"/></td>
+                  <td style="width: 170px;"></td>
+                  <td style="width: 150px;"></td>
+                  <td style="width: 150px;"><xsl:value-of select="Dane/Zamowienie/Produkt/Ilosc"/></td>
+                  <td style="width: 150px;"></td>
+                  <td style="width: 15px;"></td>
+                  <td style="width: 50px;"></td>
+                  <td style="width: 150px;"></td>
+                  <td style="width: 100px;"></td>
                 </tr>
                 <tr>
-                  <td style="width: 1%;">1</td>
-                  <td style="width: 30%;"><xsl:value-of select="Dane/Zamowienie/Produkt/Nazwa"/></td>
-                  <td style="width: 7,5%;"></td>
-                  <td style="width: 7,5%;"></td>
-                  <td style="width: 5%;"><xsl:value-of select="Dane/Zamowienie/Produkt/Ilosc"/></td>
-                  <td style="width: 10%;"></td>
-                  <td style="width: 10%;"></td>
-                  <td style="width: 5%;"></td>
-                  <td style="width: 10%;"></td>
-                  <td style="width: 13%;"></td>
+                  <td style="width: 10px;">1</td>
+                  <td style="width: 500px;"><xsl:value-of select="Dane/Zamowienie/Produkt/Nazwa"/></td>
+                  <td style="width: 170px;"></td>
+                  <td style="width: 150px;"></td>
+                  <td style="width: 150px;"><xsl:value-of select="Dane/Zamowienie/Produkt/Ilosc"/></td>
+                  <td style="width: 150px;"></td>
+                  <td style="width: 15px;"></td>
+                  <td style="width: 50px;"></td>
+                  <td style="width: 150px;"></td>
+                  <td style="width: 100px;"></td>
                 </tr>
                 <tr>
-                  <td style="width: 1%;">1</td>
-                  <td style="width: 30%;"><xsl:value-of select="Dane/Zamowienie/Produkt/Nazwa"/></td>
-                  <td style="width: 7,5%;"></td>
-                  <td style="width: 7,5%;"></td>
-                  <td style="width: 5%;"><xsl:value-of select="Dane/Zamowienie/Produkt/Ilosc"/></td>
-                  <td style="width: 10%;"></td>
-                  <td style="width: 10%;"></td>
-                  <td style="width: 5%;"></td>
-                  <td style="width: 10%;"></td>
-                  <td style="width: 13%;"></td>
+                  <td style="width: 10px;">1</td>
+                  <td style="width: 500px;"><xsl:value-of select="Dane/Zamowienie/Produkt/Nazwa"/></td>
+                  <td style="width: 170px;"></td>
+                  <td style="width: 150px;"></td>
+                  <td style="width: 150px;"><xsl:value-of select="Dane/Zamowienie/Produkt/Ilosc"/></td>
+                  <td style="width: 150px;"></td>
+                  <td style="width: 15px;"></td>
+                  <td style="width: 50px;"></td>
+                  <td style="width: 150px;"></td>
+                  <td style="width: 100px;"></td>
                 </tr>
             </table>
            
