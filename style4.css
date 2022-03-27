@@ -1,22 +1,66 @@
 
 
 body{
-            background-image: url(fakturka.jpg);
-            background-position: top left;
-           background-repeat: no-repeat;
-          
-    
-}
-table{
-    width: 1280px;
-    height: 115px;
-    border: 1px solid black;
-    margin-top: 380px;
-    margin-left: 74px;
+    background-image: url(fakturka.jpg);
+    background-position: top left;
+    background-repeat: no-repeat;          
 }
 
-td{
-    border: 1px solid black;
+.table1{
+    width: 1280px;
+    height: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 380px;
+    margin-left: 74px;
+    
+}
+
+.table1 td{
+    
+    height: 10px;
+    text-align: center;
+}
+
+.table2{
+    width: 515px;
+    height: 37.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 835px;
+    margin-top: 50px;
+    
+}
+
+.table2 td{
+    
+    height: 10px;
+    text-align: center;
+}
+.table3{
+    width: 515px;
+    height: 37.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 835px;
+    margin-top: 195px;
+    
+}
+
+.table3 td{
+    
+    height: 10px;
+    text-align: center;
+}
+.table4{
+    width: 515px;
+    height: 37.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 835px;
+    margin-top: 37px;
+    
+}
+
+.table4 td{
+    font-family: cursive;
+    font-size:xx-large;
     height: 10px;
     text-align: center;
 }
