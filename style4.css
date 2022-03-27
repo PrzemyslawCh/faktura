@@ -2,16 +2,21 @@
 
 body{
             background-image: url(fakturka.jpg);
-            background-position: left;
+            background-position: top left;
            background-repeat: no-repeat;
-           height:fit-content;
-           width: fit-content;
+          
     
 }
 table{
-    margin-top: 400px;
-    margin-left: 100px;
+    width: 1280px;
+    height: 115px;
+    border: 1px solid black;
+    margin-top: 380px;
+    margin-left: 74px;
 }
+
 td{
-    height: 5px;
+    border: 1px solid black;
+    height: 10px;
+    text-align: center;
 }
