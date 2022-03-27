@@ -11,7 +11,7 @@
           <link rel='stylesheet' type='text/css' media='screen' href='style4.css' />
           <script src='main.js'></script>
          </head>
-           <body style="background-image: url(fakturka.jpg)">        
+           <body>        
             <table>
               <tbody>
                 <tr>
