@@ -44,7 +44,7 @@
             </table>
             <table class="table4">    
               <tr>
-                <td style="width: 100%;">Przemysław Chachaj</td>
+                <td style="width: 100%;"><p>Przemysław Chachaj</p></td>
               </tr>                              
             </table>
 
